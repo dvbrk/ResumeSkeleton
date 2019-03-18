@@ -145,3 +145,112 @@ i{
 .print{
 	width:21cm;
 }
+
+@media only screen and (max-width: 629px) {
+	.name{
+		width: 100% ;
+		
+	}
+	.occupation{
+		width: 100% ;
+	}
+	.contact-info{
+		float:right;
+		width: 100% ;
+	
+	}
+	.contact-box{
+		width: 100% ;
+		float:right;
+	}
+	.tag-cloud{
+		width:100%;
+	
+	}
+	i{
+		width: 100% ;
+		float: right;
+	}
+	.job-title{
+		width: 100% ;
+	}
+	.institution{
+		width: 100% ;
+	}
+	.duties{
+		width: 100% ;
+	}
+	.skill{
+		width: 100% ;
+	}
+	.graph{
+		width: 100% ;
+	}
+	.first{
+		width: 100% ;
+	}
+	.content{
+		width: 100% ;
+	}
+	.row-separator{
+		width: 100% ;
+	}
+	.grey-line{
+		width: 100% ;
+	}
+	.black-line{
+		width: 100% ;
+
+	}
+	.section-heading{
+		width: 100% ;
+
+	}
+	.left-heading{
+		width: 100% ;
+
+	}
+	.skills-list{
+		width: 100% ;
+
+	}
+	.left-column-section-heading{
+		width: 100% ;
+
+	
+	}
+	.left-column-section-heading i{
+		width: 100% ;
+
+	}
+	.objective-statement{
+		width: 100% ;
+
+	}
+	.date{
+		width: 100% ;
+
+	}
+	.leftcolumn{
+		width: 100% ;
+
+	}
+	.rightcolumn{
+		width: 100% ;
+
+	}
+	.leftcolumn-footer{
+		width: 100% ;
+
+	}
+	.rightcolumn-footer{
+		width: 100% ;
+
+	}
+	.print{
+		width: 100% ;
+	}
+		
+		}
+	
+
